@@ -165,7 +165,7 @@ Models are small Python modules with a deliberately narrow interface.
 See:
 
 ```text
-models/README.md
+models/MODELS_README.md
 ```
 
 for the model contract, examples, performance notes, dynamical-vs-parameter-plane behavior, and guidance for designing parameter paths that preserve the equation's behavior.
