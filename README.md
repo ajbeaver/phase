@@ -1,7 +1,5 @@
 # phase
 
-> **The renderer samples the dynamics. It does not choreograph them.**
-
 A fast terminal fractal engine for watching complex dynamical systems evolve in real time.
 
 `phase` started as a cubic Julia experiment and turned into a modular escape-time engine with multiprocessing, truecolor ANSI output, time-based evolution, and a growing collection of deliberately raw fractal systems.
