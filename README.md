@@ -12,19 +12,7 @@ The point is to give the math enough room, enough speed, and enough resolution t
 
 ---
 
-## Preview
-
-Recommended media path:
-
-```text
-docs/phase-demo.gif
-```
-
-Once the file is there, GitHub will render it directly in the README with:
-
-```md
 ![phase demo](docs/phase-demo.gif)
-```
 
 ---
 
