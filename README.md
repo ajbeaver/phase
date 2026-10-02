@@ -4,7 +4,7 @@ A small fractal generator for the terminal.
 
 I made this because I wanted a local way to mess around with Julia sets, vortex-like behavior, and other escape-time systems without needing a browser or a big graphics stack.
 
-The math is definitely above my pay grade in places, and I used AI tools while building it, but the project was mostly an excuse to experiment and learn.
+The math is definitely above my pay grade in places but the project was mostly an excuse to experiment and learn.
 
 I’m also a freak for CLI tools, so it lives in the terminal.
 

@@ -19,21 +19,21 @@ PALETTE = " .:-=+*#%@"
 PALETTE_LAST = len(PALETTE) - 1
 
 # Interior / bounded region.
-INSIDE_RGB = (3, 3, 10)
+INSIDE_RGB = (10, 8, 18)
 
 # Escape-field colors.
 #
 # These are the low and high ends of the animated color ranges.
 #
 # Current values preserve the purple/blue look we've been using.
-RED_LOW = 25
-RED_HIGH = 120
+RED_LOW = 45
+RED_HIGH = 165
 
-GREEN_LOW = 10
-GREEN_HIGH = 45
+GREEN_LOW = 20
+GREEN_HIGH = 65
 
-BLUE_LOW = 75
-BLUE_HIGH = 220
+BLUE_LOW = 120
+BLUE_HIGH = 255
 
 # Color animation through the escape field.
 COLOR_SPATIAL_1 = 10.0
